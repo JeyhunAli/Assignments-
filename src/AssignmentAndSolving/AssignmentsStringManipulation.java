@@ -134,7 +134,7 @@ public class AssignmentsStringManipulation {
 
 	}
 
-//   8  Write a method which gives an index of (-1) if string is not available. .
+//   9  Write a method which gives an index of (-1) if string is not available. .
 //	 it should return integer. if String is present, then it should return the
 //	 specific index.
 
@@ -155,7 +155,7 @@ public class AssignmentsStringManipulation {
 
 	}
 
-//	9 Write a program that breaks a whole string into small strings, and prints
+//	10 Write a program that breaks a whole string into small strings, and prints
 //	 out its all values . (Hint: split, loop) .
 
 	public static void breakString() {
@@ -169,7 +169,7 @@ public class AssignmentsStringManipulation {
 
 	}
 
-// 10 middle char 
+// 11 middle char 
 	public static void middleString() {
 
 		String John_F_Kennedy = "Brooklyn";
@@ -190,7 +190,7 @@ public class AssignmentsStringManipulation {
 
 	}
 
-// 11	 Assume that a string consists of 3 words, print out the middle one.
+// 12	 Assume that a string consists of 3 words, print out the middle one.
 	public static void middle() {
 		String s = "Jeyhun, Naveen, Farah";
 
@@ -206,7 +206,7 @@ public class AssignmentsStringManipulation {
 	
 	
 	
-//	12  get only numeric part from this String: String s = "your transaction id
+//	13  get only numeric part from this String: String s = "your transaction id
 //    is: 12345 and reference id is 34567"
 	
 	public static void findNum() {
